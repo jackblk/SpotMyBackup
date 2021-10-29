@@ -1,7 +1,7 @@
 config = {
-"uri":"http://localhost:8888",
-"redirect_uri":"http://localhost:8888/login.html",
-"client_id":"[YOUR_TOKEN_HERE]",
+"uri":"https://spot.haicon.moe",
+"redirect_uri":"https://spot.haicon.moe/login.html",
+"client_id":"30f12e314ef24aad8cf01a129c972431",
 "slowdown_import": 100,
 "slowdown_export": 100
 };
